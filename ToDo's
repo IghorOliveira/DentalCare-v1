@@ -1,0 +1,30 @@
+-Login feito
+
+Cadastros
+-Cadastro de Atendentes FEITA
+-Cadastro de Dentistas FEITA
+-Cadastro de Clientes FEITA
+-Cadastro de Procedimentos FEITA
+-Cadastro de Cargos Para Fazer Dps
+
+Listagens
+-Lista de Consultas FEITA
+    -Falta a parte de pesquisa
+-Lista de Atendentes FEITA
+    -Falta a parte de pesquisa
+-Lista de Dentistas FEITA
+    -Falta a parte de pesquisa
+-Lista de Procedimentos FEITA
+-Lista de Pacientes FEITA
+    -Falta ajustar o mecanismo de pesquisa 
+-Lista de Cargos
+-Sobre pesquisa: decidi fazer só por nome
+
+
+Ajuda no Cadastro
+-Criar paginas de listagem e dps linkar elas na de cadastro como referencia na cad
+
+Add funcionalidade a alguns botões de navegação q eu esqueci
+Add checagem de formulario 
+Add chegagem de duplicidade na hora do cadastro
+Aprimorar visual do sistema
