@@ -17,7 +17,7 @@ public class Conexao {
     
     private String dbUrl = "jdbc:mysql://localhost:3306/dentalcare?useSSL=false";
     private String dbUserName = "root";
-    private String dbPassword = "";
+    private String dbPassword = "root";
     private String dbDriver = "com.mysql.jdbc.Driver"; 
     
     public Connection getConnection(){
