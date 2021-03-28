@@ -34,15 +34,10 @@ public class LoginControl {
         Connection conexao = new Conexao().getConnection();
         FuncionarioDAO funcionarioDAO = new FuncionarioDAO(conexao);
         boolean existe = funcionarioDAO.existeNoBancoPorUsuarioESenha(funcionario);
-        //boolean ehDentista  = funcionarioDAO.possuiCrm(funcionario);
-        //System.out.println("Eh dentista: "+ehDentista);
-        
+       
         
         if (existe){
             loginParaMenuAtendente();
-//        } else if(existe && ehDentista){
-//            loginParaMenuDentista();
-//        }  
         } else {
             view.apresentarMensagem("Usuario ou Senha Invalidos");
         }
